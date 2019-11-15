@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/portfolio for Upenn.pdf)
+[Project 2 Title](/pdf/portfolio_penn.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
