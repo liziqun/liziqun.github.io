@@ -7,18 +7,21 @@
 ### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
 <img src="images/combine.png?raw=true"/>
 
-### [Investivation on Shared Vehicles]((/pdf/carsharing.pdf)
+### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
 <img src="images/carsharing.jpg?raw=true"/>
 
 ---
 
 ## Geospatial Marching Leaning
 
-### [Geospatial risk modeling - the robbery crime](R markdown/Ziqun Li_risk_prediction.html)
+### [Geospatial Risk Modeling - the Robbery Crime](R markdown/Ziqun Li_risk_prediction.html)
+<img src="images/risk.jpg?raw=true"/>
 
 ### [Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
+<img src="images/bikesharing.png?raw=true"/>
 
 ### [Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
+<img src="images/house.png?raw=true"/>
 
 ---
 
