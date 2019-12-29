@@ -29,28 +29,6 @@ Urban transport investivation on shared vehicles.
 <img src="images/carsharing.jpg?raw=true"/>
      
 ---
-   
-## Urban Planning & Design 
-### [Portfolio of Urban Planning & Design](/pdf/urbandesign.pdf)
-Selected design & planning works from 2014-2018.      
-
-<img src="images/urbandesign.png?raw=true"/>
-
----
-
-## Spatial Analytics 
-    
-### [Urban Growth VS.Development Suitability](/pdf/urbanvsdevelop.pdf)
-Search suitable lands for pennsylvania urban growth.        
-
-<img src="images/development.png?raw=true"/>
-       
-### [Analysis of Urban Built-Up Area in China](/pdf/GEE&Arcpy.pdf)
-Explore the expansion and contraction area in China.   
-
-<img src="images/gee.png?raw=true"/>
-  
----
   
 ## App Design
 
@@ -60,6 +38,28 @@ Introduction video of the mobile app with parking reservation and administration
 <img src="images/fengmian.png?raw=true"/>
   
 ### [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
+
+---
+
+## Spatial Analytics 
+       
+### [Analysis of Urban Built-Up Area in China](/pdf/GEE&Arcpy.pdf)
+Explore the expansion and contraction area in China.   
+
+<img src="images/gee.png?raw=true"/>
+      
+### [Urban Growth VS.Development Suitability](/pdf/urbanvsdevelop.pdf)
+Search suitable lands for pennsylvania urban growth.        
+
+<img src="images/development.png?raw=true"/>
+
+---
+
+## Urban Planning & Design 
+### [Portfolio of Urban Planning & Design](/pdf/urbandesign.pdf)
+Selected design & planning works from 2014-2018.      
+
+<img src="images/urbandesign.png?raw=true"/>
 
 ---
 
