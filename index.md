@@ -20,11 +20,9 @@
     
 
 ### [Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
-<img src="images/bikesharing.png?raw=true"/>
   
   
 ### [Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
-<img src="images/house.png?raw=true"/>
   
 
 ---
