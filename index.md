@@ -24,8 +24,23 @@
 ### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
 <img src="images/carsharing.jpg?raw=true"/>
      
-     
---- 
+---
+   
+## Urban Planning & Design 
+### [Portfolio of Urban Planning & Design](/pdf/urbandesign.pdf)
+<img src="images/urbandesign.png?raw=true"/>
+
+---
+
+## Spatial Analytics 
+    
+### [Urban Growth VS.Development Suitability](/pdf/urbanvsdevelop.pdf)
+<img src="images/development.png?raw=true"/>
+       
+### [Analysis of Urban Built-Up Area in China](/pdf/GEE&Arcpy.pdf)
+<img src="images/gee.png?raw=true"/>
+  
+---
   
 ## App Design
 
@@ -35,25 +50,6 @@
 ### [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
 
 ---
-
-## Spatial Analytics 
-    
-### [Analysis of Urban Built-Up Area in China](/pdf/GEE&Arcpy.pdf)
-<img src="images/gee.png?raw=true"/>
-  
-   
-### [Urban Growth VS.Development Suitability](/pdf/urbanvsdevelop.pdf)
-<img src="images/development.png?raw=true"/>
-    
----
-
-## Urban Planning & Design 
-### [Portfolio of Urban Planning & Design](/pdf/urbandesign.pdf)
-<img src="images/urbandesign.png?raw=true"/>
-
----
-
-
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>-->
 <!-- Remove above link if you don't want to attibute -->
