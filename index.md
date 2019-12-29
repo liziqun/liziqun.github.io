@@ -1,18 +1,18 @@
-### Personal Project
+# Personal Project
 
 ---
 
-# Data Analysis & Visualization 
+## Data Analysis & Visualization 
 
 ### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
-<img src="images/wordcloud.png?raw=true"/>
+<img src="images/combine.png?raw=true"/>
 
 ### [Investivation on Shared Vehicles]((/pdf/carsharing.pdf)
 <img src="images/carsharing.jpg?raw=true"/>
 
 ---
 
-# Geospatial Marching Leaning
+## Geospatial Marching Leaning
 
 ### [Geospatial risk modeling - the robbery crime](R markdown/Ziqun Li_risk_prediction.html)
 
@@ -22,7 +22,7 @@
 
 ---
 
-# App Design
+## App Design
 
 ### [ParkFinder](https://liziqun.github.io/MUSA620_Final_Project/)
 <img src="images/fengmian.png?raw=true"/>
@@ -31,7 +31,7 @@
 
 ---
 
-# Spatial Analytics 
+## Spatial Analytics 
     
 ### [Analysis of Urban Built-Up Area in China](/pdf/GEE&Arcpy.pdf)
 <img src="images/gee.png?raw=true"/>
@@ -41,7 +41,7 @@
   
 ---
 
-# Urban Planning & Design 
+## Urban Planning & Design 
 ### [Portfolio of Urban Planning & Design](/pdf/urbandesign.pdf)
 <img src="images/urbandesign.png?raw=true"/>
 
