@@ -6,22 +6,26 @@
 
 ### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
 <img src="images/combine.png?raw=true"/>
-
+       
+       
 ### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
 <img src="images/carsharing.jpg?raw=true"/>
-
----
+     
+     
+--- 
 
 ## Geospatial Marching Leaning
 
 ### [Geospatial Risk Modeling - the Robbery Crime](R markdown/Ziqun Li_risk_prediction.html)
-<img src="images/risk.jpg?raw=true"/>
+    
 
 ### [Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
 <img src="images/bikesharing.png?raw=true"/>
-
+  
+  
 ### [Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
 <img src="images/house.png?raw=true"/>
+  
 
 ---
 
@@ -29,7 +33,7 @@
 
 ### [ParkFinder](https://liziqun.github.io/MUSA620_Final_Project/)
 <img src="images/fengmian.png?raw=true"/>
-
+  
 ### [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
 
 ---
@@ -38,10 +42,11 @@
     
 ### [Analysis of Urban Built-Up Area in China](/pdf/GEE&Arcpy.pdf)
 <img src="images/gee.png?raw=true"/>
-
+  
+   
 ### [Urban Growth VS.Development Suitability](/pdf/urbanvsdevelop.pdf)
 <img src="images/development.png?raw=true"/>
-  
+    
 ---
 
 ## Urban Planning & Design 
