@@ -57,7 +57,7 @@ Search suitable lands for pennsylvania urban growth.
 
 ## Urban Planning & Design 
 ### [Portfolio of Urban Planning & Design](/pdf/urbandesign.pdf)
-Selected design & planning works from 2014-2018.      
+Selected urban design & planning works from 2014-2018.      
 
 <img src="images/urbandesign.png?raw=true"/>
 
