@@ -4,32 +4,35 @@
 
 ### R Project
 
-[Parking demand prediction in Seattle](/sample_page)
+[Parking demand prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/portfolio_penn.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Geospatial risk modeling - the robbery crime](R markdown/Ziqun Li_risk_prediction.html)
+
+---
+[Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
 
 ---
 
 ### Python Project
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
 
 ---
 ### Spatial Analytics Project
+    
+[Analysis of Urban Built-Up Area in China](/pdf/portfolio_penn.pdf)
 
+---
+[Urban Growth VS.Development Suitability](/pdf/portfolio_penn.pdf)
 
-### Urban Design Project
+---
+
+### Urban Planning & Design Project
 [Portfolio of Urban Planning & Design](/pdf/portfolio_penn.pdf)
 
 ---
