@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### R Project
 
-[Project 1 Title](/sample_page)
+[Parking demand prediction in Seattle](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Python Project
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -26,9 +26,11 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+### Spatial Analytics Project
 
 
-
+### Urban Design Project
+[Portfolio of Urban Planning & Design](/pdf/portfolio_penn.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
