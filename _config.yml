@@ -1,11 +1,10 @@
 title: Ziqun Li # your name (or website title) here
 logo: "/images/photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  
   Master of Urban Spatial Analytics
   University of Pennsylvania, the U.S
   <br><br>
-  Bachelor of Engineering
-  Huazhong University of Science and Technology
   <a href="https://www.linkedin.com/in/ziqun-li-73033417b/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
