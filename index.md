@@ -38,6 +38,7 @@ Introduction video of the mobile app with parking reservation and administration
 <img src="images/fengmian.png?raw=true"/>
   
 ### [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
+R markdown of model building process
 
 ---
 
