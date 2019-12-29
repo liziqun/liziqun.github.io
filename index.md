@@ -1,38 +1,47 @@
-## Portfolio
+# Personal Project
 
 ---
 
-### R Project
+# Data Analysis & Visualization 
 
-[Parking demand prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
-<img src="images/fengmian.png?raw=true"/>
+## [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
 
-[Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
+## [Investivation on Shared Vehicles](https://liziqun.github.io/MUSA620_Final_Project/)
+---
 
-[Geospatial risk modeling - the robbery crime](R markdown/Ziqun Li_risk_prediction.html)
+# Geospatial Marching Leaning
 
-[Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
+## [Geospatial risk modeling - the robbery crime](R markdown/Ziqun Li_risk_prediction.html)
+
+## [Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
+
+## [Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
 
 ---
 
-### Python Project
+# App Design
 
-[Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
+## [ParkFinder](https://liziqun.github.io/MUSA620_Final_Project/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+## [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
+
 ---
-### Spatial Analytics Project
+
+# Urban Planning & Design 
+## [Portfolio of Urban Planning & Design](/pdf/urbandesign.pdf)
+<img src="images/urbandesign.jpg?raw=true"/>
+
+---
+# Spatial Analytics 
     
-[Analysis of Urban Built-Up Area in China](/pdf/portfolio_penn.pdf)
+## [Analysis of Urban Built-Up Area in China](/pdf/GEE&Arcpy.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Urban Growth VS.Development Suitability](/pdf/portfolio_penn.pdf)
-
----
-
-### Urban Planning & Design Project
-[Portfolio of Urban Planning & Design](/pdf/portfolio_penn.pdf)
+## [Urban Growth VS.Development Suitability](/pdf/urbandesign.pdf)
 
 ---
+
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>-->
 <!-- Remove above link if you don't want to attibute -->
