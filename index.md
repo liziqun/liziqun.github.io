@@ -2,7 +2,7 @@
 
 ---
 
-## Geospatial Marching Leaning
+## Geospatial Marching Learning
 
 ### [Geospatial Risk Modeling - the Robbery Crime](R markdown/Ziqun Li_risk_prediction.html)
     
