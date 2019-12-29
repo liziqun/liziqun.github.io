@@ -8,7 +8,7 @@
 <img src="images/wordcloud.png?raw=true"/>
 
 ### [Investivation on Shared Vehicles]((/pdf/carsharing.pdf)
-<img src="images/carsharing.png?raw=true"/>
+<img src="images/carsharing.jpg?raw=true"/>
 
 ---
 
