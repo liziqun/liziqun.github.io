@@ -2,14 +2,14 @@
 
 ---
 
-## Machine Learning Project
-
-### [Geospatial Risk Modeling - the Robbery Crime](R markdown/Ziqun Li_risk_prediction.html)
-A geospatial risk model was built using the robbery crime data in order to better prevent robbery risk in Chicago.    
+## Machine Learning Project   
 
 ### [Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
 A space-time ridershare prediction model was built to help indego(Philly's official bike share provider) understand demand for bike share.
   
+### [Geospatial Risk Modeling - the Robbery Crime](R markdown/Ziqun Li_risk_prediction.html)
+A geospatial risk model was built using the robbery crime data in order to better prevent robbery risk in Chicago. 
+
 ### [Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
 Predict home sale price for Zillow(the leading real estate marketplace in the U.S) in San Francisco.
 
