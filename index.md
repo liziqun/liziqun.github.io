@@ -2,7 +2,7 @@
 
 ---
 
-## Geospatial Machine Learning
+## Machine Learning Project
 
 ### [Geospatial Risk Modeling - the Robbery Crime](R markdown/Ziqun Li_risk_prediction.html)
 A geospatial risk model was built using the robbery crime data in order to better prevent robbery risk in Chicago.    
@@ -35,7 +35,7 @@ Urban transport investivation on shared vehicles.
 ### [App Design: ParkFinder](https://youtu.be/YgNFttlalO0)
 Introduction video of the mobile app with parking reservation and administration service.     
 
-<img src="images/fengmian.png?raw=true"/>
+<img src="images/parkfinder.png?raw=true"/>
   
 ### [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
 R markdown of model building process
