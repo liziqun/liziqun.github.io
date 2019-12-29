@@ -44,7 +44,7 @@
   
 ## App Design
 
-### [ParkFinder](https://liziqun.github.io/MUSA620_Final_Project/)
+### [App Design: ParkFinder](https://youtu.be/YgNFttlalO0.)
 <img src="images/fengmian.png?raw=true"/>
   
 ### [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
