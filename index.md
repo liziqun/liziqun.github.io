@@ -35,7 +35,7 @@ Urban transport investivation on shared vehicles.
 ### [App Design: ParkFinder](https://youtu.be/YgNFttlalO0)
 Introduction video of the mobile app with parking reservation and administration service.     
 
-<img src="images/parkfinder.png?raw=true"/>
+<img src="images/fengmian.png?raw=true"/>
   
 ### [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
 R markdown of model building process
