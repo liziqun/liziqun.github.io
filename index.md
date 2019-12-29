@@ -5,6 +5,7 @@
 ### R Project
 
 [Parking demand prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
+<img src="images/fengmian.png?raw=true"/>
 
 [Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
 
