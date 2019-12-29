@@ -2,18 +2,6 @@
 
 ---
 
-## Data Analysis & Visualization 
-
-### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
-<img src="images/combine.png?raw=true"/>
-       
-       
-### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
-<img src="images/carsharing.jpg?raw=true"/>
-     
-     
---- 
-
 ## Geospatial Marching Leaning
 
 ### [Geospatial Risk Modeling - the Robbery Crime](R markdown/Ziqun Li_risk_prediction.html)
@@ -26,7 +14,19 @@
   
 
 ---
+   
+## Data Analysis & Visualization 
 
+### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
+<img src="images/combine.png?raw=true"/>
+       
+       
+### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
+<img src="images/carsharing.jpg?raw=true"/>
+     
+     
+--- 
+  
 ## App Design
 
 ### [ParkFinder](https://liziqun.github.io/MUSA620_Final_Project/)
