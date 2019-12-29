@@ -44,7 +44,7 @@
   
 ## App Design
 
-### [App Design: ParkFinder](https://youtu.be/YgNFttlalO0.)
+### [App Design: ParkFinder](https://youtu.be/YgNFttlalO0)
 <img src="images/fengmian.png?raw=true"/>
   
 ### [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
