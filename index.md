@@ -4,7 +4,7 @@
   
 ## Mobile App Design
 
-### [Moldel Building: Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
+### [Model Building: Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
 R markdown of model building process
   
 <img src="images/visio_eng.jpg?raw=true"/>
