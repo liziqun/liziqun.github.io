@@ -1,35 +1,6 @@
 # Portfolio
 
 ---
-  
-## Mobile App Design
-
-### [Model Building: Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
-R markdown of model building process for parking demand prediction in Seattle.
-  
-<img src="images/visio_eng.jpg?raw=true"/>
-
-### [Mobile App Design: ParkFinder](https://free.modao.cc/app/c71040af664326a33d3a96fcdb28de4d476b517f)
-Wireframes of the mobile app with parking reservation and administration service.     
-
-<img src="images/fengmian.png?raw=true"/>
-  
----
-   
-## Data Analysis & Visualization 
-
-### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
-Exploratory analysis of New York Airbnb.    
-
-<img src="images/combine.png?raw=true"/>
-       
-       
-### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
-Urban transport investivation on shared vehicles.      
-
-<img src="images/carsharing.jpg?raw=true"/>
-     
----
 
 ## Machine Learning Project   
 
@@ -44,6 +15,35 @@ Predict home sale price for Zillow(the leading real estate marketplace in the U.
 
 ---
 
+## Data Analysis & Visualization 
+
+### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
+Exploratory analysis of New York Airbnb.    
+
+<img src="images/combine.png?raw=true"/>
+       
+       
+### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
+Urban transport investivation on shared vehicles.      
+
+<img src="images/carsharing.jpg?raw=true"/>
+     
+---
+  
+## Mobile App Design
+
+### [Model Building: Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
+R markdown of model building process for parking demand prediction in Seattle.
+  
+<img src="images/visio_eng.jpg?raw=true"/>
+
+### [Mobile App Design: ParkFinder](https://free.modao.cc/app/c71040af664326a33d3a96fcdb28de4d476b517f)
+Wireframes of the mobile app with parking reservation and administration service.     
+
+<img src="images/fengmian.png?raw=true"/>
+  
+---
+  
 ## Spatial Analytics 
        
 ### [Analysis of Urban Built-Up Area in China](/pdf/GEE&Arcpy.pdf)
