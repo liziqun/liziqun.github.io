@@ -14,21 +14,6 @@ A geospatial risk model was built using the robbery crime data in order to bette
 Predict home sale price for Zillow(the leading real estate marketplace in the U.S) in San Francisco.
 
 ---
-
-## Data Analysis & Visualization 
-
-### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
-Exploratory analysis of New York Airbnb.    
-
-<img src="images/combine.png?raw=true"/>
-       
-       
-### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
-Urban transport investivation on shared vehicles.      
-
-<img src="images/carsharing.jpg?raw=true"/>
-     
----
   
 ## Mobile App Design
 
@@ -44,6 +29,21 @@ Wireframes of the mobile app with parking reservation and administration service
   
 ---
   
+## Data Analysis & Visualization 
+
+### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
+Exploratory analysis of New York Airbnb.    
+
+<img src="images/combine.png?raw=true"/>
+       
+       
+### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
+Urban transport investivation on shared vehicles.      
+
+<img src="images/carsharing.jpg?raw=true"/>
+     
+---
+
 ## Spatial Analytics 
        
 ### [Analysis of Urban Built-Up Area in China](/pdf/GEE&Arcpy.pdf)
