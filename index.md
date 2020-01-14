@@ -6,7 +6,7 @@
 
 ### [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
 R markdown of model building process
-<img src="images/visio.jpg?raw=true"/>
+<img src="images/visio_eng.jpg?raw=true"/>
 
 ### [App Design: ParkFinder](https://free.modao.cc/app/c71040af664326a33d3a96fcdb28de4d476b517f)
 Wireframes of the mobile app with parking reservation and administration service.     
