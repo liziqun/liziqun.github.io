@@ -1,6 +1,19 @@
 # Portfolio
 
 ---
+  
+## App Design
+
+### [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
+R markdown of model building process
+<img src="images/visio.jpg?raw=true"/>
+
+### [App Design: ParkFinder](https://free.modao.cc/app/c71040af664326a33d3a96fcdb28de4d476b517f)
+Wireframes of the mobile app with parking reservation and administration service.     
+
+<img src="images/fengmian.png?raw=true"/>
+  
+---
 
 ## Machine Learning Project   
 
@@ -28,19 +41,6 @@ Urban transport investivation on shared vehicles.
 
 <img src="images/carsharing.jpg?raw=true"/>
      
----
-  
-## App Design
-
-### [Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
-R markdown of model building process
-<img src="images/visio.jpg?raw=true"/>
-
-### [App Design: ParkFinder](https://free.modao.cc/app/c71040af664326a33d3a96fcdb28de4d476b517f)
-Wireframes of the mobile app with parking reservation and administration service.     
-
-<img src="images/fengmian.png?raw=true"/>
-  
 ---
 
 ## Spatial Analytics 
