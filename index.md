@@ -34,9 +34,13 @@ Wireframes of the mobile app with parking reservation and administration service
 ### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
 Exploratory analysis of New York Airbnb.    
 
+<img src="images/combine.png?raw=true"/>
+       
+### [Pricing Tool for Airbnb Host in New York](https://liziqun.github.io/Js_Midterm/)
+A data visualization platform for New York Airbnb host.    
+
 <img src="images/demo.png?raw=true"/>
-       
-       
+
 ### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
 Urban transport investivation on shared vehicles.      
 
