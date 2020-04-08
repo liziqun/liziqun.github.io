@@ -39,7 +39,7 @@ Exploratory analysis of New York Airbnb.
 ### [Pricing Tool for Airbnb Host in New York](https://liziqun.github.io/Js_Midterm/)
 A data visualization platform for New York Airbnb host.    
 
-<img src="images/demo.png?raw=true"/>
+<img src="images/demo2.png?raw=true"/>
 
 ### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
 Urban transport investivation on shared vehicles.      
