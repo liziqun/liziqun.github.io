@@ -31,18 +31,18 @@ Wireframes of the mobile app with parking reservation and administration service
 ---
 ## Web Development 
 
-### [Prioritizing Fire Hydrant Inspections](R markdown/Ziqun Li, Fan Shi.html)
+### [Prioritizing Fire Hydrant Inspections](R markdown/final_markdown.html)
 Improve the inspection efficiency of hydrant in Philadelphia.
 
 ### [Web App: Hydrant Inspector](https://liziqun.github.io/Hydrant_Inspector/)
 Web App development for hydrant management in philadelphia.     
 
-<img src="images/fengmian.png?raw=true"/>
+<img src="images/app_hydrant.png?raw=true"/>
 
 ### [Web App: Spatial Distribution of Urban Facility in Shanghai](https://liziqun.github.io/Js_Final/map.html)
 evaluate the urban space value for both the urban planner and property developer, and provide a basis for facility site selection.
 
-<img src="images/fengmian.png?raw=true"/>
+<img src="images/app.png?raw=true"/>
 
 ---
 ## Data Analysis & Visualization 
