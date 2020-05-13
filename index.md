@@ -1,52 +1,22 @@
 # Portfolio
 
 ---
-
-## Machine Learning Project   
-
-### [Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
-A space-time ridershare prediction model was built to help indego(Philly's official bike share provider) understand demand for bike share.
-  
-### [Geospatial Risk Modeling - the Robbery Crime](R markdown/Ziqun Li_risk_prediction.html)
-A geospatial risk model was built using the robbery crime data in order to better prevent robbery risk in Chicago. 
-
-### [Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
-Predict home sale price for Zillow(the leading real estate marketplace in the U.S) in San Francisco.
+## Web Development  
 
 ### [Prioritizing Fire Hydrant Inspections](R markdown/final_markdown.html)
 Help improve the inspection efficiency of hydrant in Philadelphia.
 
----
-## Data Analysis & Visualization 
-
-### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
-Urban transport investivation on shared vehicles.      
-
-<img src="images/carsharing.jpg?raw=true"/>
-     
-### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
-Exploratory analysis of New York Airbnb.    
-
-<img src="images/combine.png?raw=true"/>
-       
----
-## Web Design 
-### [Pricing Tool for Airbnb Host in New York](https://liziqun.github.io/Js_Midterm/)
-A data visualization platform for New York Airbnb host.    
-
-<img src="images/demo2.png?raw=true"/>
-
-### [Web App: Hydrant Inspector](https://liziqun.github.io/Hydrant_Inspector/)
+### [Hydrant Inspector](https://liziqun.github.io/Hydrant_Inspector/)
 Web App development for hydrant management in philadelphia.     
 
 <img src="images/app_hydrant.png?raw=true"/>
 
-### [Web App: Spatial Distribution of Urban Facility in Shanghai](https://liziqun.github.io/Js_Final/map.html)
-evaluate the urban space value for both the urban planner and property developer, and provide a basis for facility site selection.
+### [Urban Facility Panagement Platform](https://liziqun.github.io/Js_Final/map.html)
+Spatial Distribution of Urban Facility in Shanghai.
 
 <img src="images/app.png?raw=true"/>
 
----  
+---
 ## Mobile App Design
 
 ### [Model Building: Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
@@ -60,6 +30,37 @@ Wireframes of the mobile app with parking reservation and administration service
 <img src="images/fengmian.png?raw=true"/>
   
 ---
+## Data Analysis & Visualization 
+
+### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
+Urban transport investivation on shared vehicles.      
+
+<img src="images/carsharing.jpg?raw=true"/>
+     
+### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
+Exploratory analysis of New York Airbnb.    
+
+<img src="images/combine.png?raw=true"/>
+
+### [Pricing Tool for Airbnb Host in New York](https://liziqun.github.io/Js_Midterm/)
+A data visualization platform for New York Airbnb host.    
+
+<img src="images/demo2.png?raw=true"/>     
+
+---
+
+## Machine Learning Project   
+
+### [Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
+A space-time ridershare prediction model was built to help indego(Philly's official bike share provider) understand demand for bike share.
+  
+### [Geospatial Risk Modeling - the Robbery Crime](R markdown/Ziqun Li_risk_prediction.html)
+A geospatial risk model was built using the robbery crime data in order to better prevent robbery risk in Chicago. 
+
+### [Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
+Predict home sale price for Zillow(the leading real estate marketplace in the U.S) in San Francisco.
+
+---  
 
 ## Spatial Analytics 
        
