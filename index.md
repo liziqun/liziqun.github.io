@@ -2,11 +2,6 @@
 
 ---
 ## Data Analysis & Visualization 
-
-### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
-Urban transport investivation on shared vehicles.      
-
-<img src="images/carsharing.jpg?raw=true"/>
      
 ### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
 Exploratory analysis of New York Airbnb.    
@@ -18,6 +13,10 @@ A data visualization platform for New York Airbnb host.
 
 <img src="images/demo2.png?raw=true"/>     
 
+### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
+Urban transport investivation on shared vehicles.      
+
+<img src="images/carsharing.jpg?raw=true"/>
 ---
 ## Web Development  
 
