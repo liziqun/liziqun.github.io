@@ -13,6 +13,7 @@ A geospatial risk model was built using the robbery crime data in order to bette
 ### [Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
 Predict home sale price for Zillow(the leading real estate marketplace in the U.S) in San Francisco.
 
+
 ---
   
 ## Mobile App Design
@@ -28,9 +29,29 @@ Wireframes of the mobile app with parking reservation and administration service
 <img src="images/fengmian.png?raw=true"/>
   
 ---
-  
+## Web Development 
+
+### [Prioritizing Fire Hydrant Inspections](R markdown/Ziqun Li, Fan Shi.html)
+Improve the inspection efficiency of hydrant in Philadelphia.
+
+### [Web App: Hydrant Inspector](https://liziqun.github.io/Hydrant_Inspector/)
+Web App development for hydrant management in philadelphia.     
+
+<img src="images/fengmian.png?raw=true"/>
+
+### [Web App: Spatial Distribution of Urban Facility in Shanghai](https://liziqun.github.io/Js_Final/map.html)
+evaluate the urban space value for both the urban planner and property developer, and provide a basis for facility site selection.
+
+<img src="images/fengmian.png?raw=true"/>
+
+---
 ## Data Analysis & Visualization 
 
+### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
+Urban transport investivation on shared vehicles.      
+
+<img src="images/carsharing.jpg?raw=true"/>
+     
 ### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
 Exploratory analysis of New York Airbnb.    
 
@@ -41,11 +62,6 @@ A data visualization platform for New York Airbnb host.
 
 <img src="images/demo2.png?raw=true"/>
 
-### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
-Urban transport investivation on shared vehicles.      
-
-<img src="images/carsharing.jpg?raw=true"/>
-     
 ---
 
 ## Spatial Analytics 
