@@ -1,35 +1,6 @@
 # Portfolio
 
 ---
-## Web Development  
-
-### [Prioritizing Fire Hydrant Inspections](R markdown/final_markdown.html)
-Help improve the inspection efficiency of hydrant in Philadelphia.
-
-### [Hydrant Management Platform](https://liziqun.github.io/Hydrant_Inspector/)
-Web App development for hydrant management in philadelphia.     
-
-<img src="images/app_hydrant.png?raw=true"/>
-
-### [Urban Facility Evaluation Platform](https://liziqun.github.io/Js_Final/map.html)
-Spatial distribution visualization of urban facility in Shanghai.
-
-<img src="images/app.png?raw=true"/>
-
----
-## Mobile App Design
-
-### [Model Building: Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
-R markdown of model building process for parking demand prediction in Seattle.
-  
-<img src="images/visio_eng.jpg?raw=true"/>
-
-### [Mobile App Design: ParkFinder](https://free.modao.cc/app/c71040af664326a33d3a96fcdb28de4d476b517f)
-Wireframes of the mobile app with parking reservation and administration service.     
-
-<img src="images/fengmian.png?raw=true"/>
-  
----
 ## Data Analysis & Visualization 
 
 ### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
@@ -47,6 +18,35 @@ A data visualization platform for New York Airbnb host.
 
 <img src="images/demo2.png?raw=true"/>     
 
+---
+## Web Development  
+
+### [Urban Facility Evaluation Platform](https://liziqun.github.io/Js_Final/map.html)
+Spatial distribution visualization of urban facility in Shanghai.
+
+<img src="images/app.png?raw=true"/>
+
+### [Prioritizing Fire Hydrant Inspections](R markdown/final_markdown.html)
+Help improve the inspection efficiency of hydrant in Philadelphia.
+
+### [Hydrant Management Platform](https://liziqun.github.io/Hydrant_Inspector/)
+Web App development for hydrant management in philadelphia.     
+
+<img src="images/app_hydrant.png?raw=true"/>
+
+---
+## Mobile App Design
+
+### [Model Building: Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
+R markdown of model building process for parking demand prediction in Seattle.
+  
+<img src="images/visio_eng.jpg?raw=true"/>
+
+### [Mobile App Design: ParkFinder](https://free.modao.cc/app/c71040af664326a33d3a96fcdb28de4d476b517f)
+Wireframes of the mobile app with parking reservation and administration service.     
+
+<img src="images/fengmian.png?raw=true"/>
+  
 ---
 
 ## Machine Learning Project   
