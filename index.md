@@ -13,6 +13,8 @@ A geospatial risk model was built using the robbery crime data in order to bette
 ### [Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
 Predict home sale price for Zillow(the leading real estate marketplace in the U.S) in San Francisco.
 
+### [Prioritizing Fire Hydrant Inspections](R markdown/final_markdown.html)
+Help improve the inspection efficiency of hydrant in Philadelphia.
 
 ---
   
@@ -30,10 +32,6 @@ Wireframes of the mobile app with parking reservation and administration service
   
 ---
 ## Web Development 
-
-### [Prioritizing Fire Hydrant Inspections](R markdown/final_markdown.html)
-Improve the inspection efficiency of hydrant in Philadelphia.
-
 ### [Web App: Hydrant Inspector](https://liziqun.github.io/Hydrant_Inspector/)
 Web App development for hydrant management in philadelphia.     
 
