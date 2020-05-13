@@ -17,32 +17,6 @@ Predict home sale price for Zillow(the leading real estate marketplace in the U.
 Help improve the inspection efficiency of hydrant in Philadelphia.
 
 ---
-  
-## Mobile App Design
-
-### [Model Building: Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
-R markdown of model building process for parking demand prediction in Seattle.
-  
-<img src="images/visio_eng.jpg?raw=true"/>
-
-### [Mobile App Design: ParkFinder](https://free.modao.cc/app/c71040af664326a33d3a96fcdb28de4d476b517f)
-Wireframes of the mobile app with parking reservation and administration service.     
-
-<img src="images/fengmian.png?raw=true"/>
-  
----
-## Web Development 
-### [Web App: Hydrant Inspector](https://liziqun.github.io/Hydrant_Inspector/)
-Web App development for hydrant management in philadelphia.     
-
-<img src="images/app_hydrant.png?raw=true"/>
-
-### [Web App: Spatial Distribution of Urban Facility in Shanghai](https://liziqun.github.io/Js_Final/map.html)
-evaluate the urban space value for both the urban planner and property developer, and provide a basis for facility site selection.
-
-<img src="images/app.png?raw=true"/>
-
----
 ## Data Analysis & Visualization 
 
 ### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
@@ -55,11 +29,36 @@ Exploratory analysis of New York Airbnb.
 
 <img src="images/combine.png?raw=true"/>
        
+---
+## Web Design 
+### [Web App: Hydrant Inspector](https://liziqun.github.io/Hydrant_Inspector/)
+Web App development for hydrant management in philadelphia.     
+
+<img src="images/app_hydrant.png?raw=true"/>
+
 ### [Pricing Tool for Airbnb Host in New York](https://liziqun.github.io/Js_Midterm/)
 A data visualization platform for New York Airbnb host.    
 
 <img src="images/demo2.png?raw=true"/>
 
+### [Web App: Spatial Distribution of Urban Facility in Shanghai](https://liziqun.github.io/Js_Final/map.html)
+evaluate the urban space value for both the urban planner and property developer, and provide a basis for facility site selection.
+
+<img src="images/app.png?raw=true"/>
+
+---  
+## Mobile App Design
+
+### [Model Building: Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
+R markdown of model building process for parking demand prediction in Seattle.
+  
+<img src="images/visio_eng.jpg?raw=true"/>
+
+### [Mobile App Design: ParkFinder](https://free.modao.cc/app/c71040af664326a33d3a96fcdb28de4d476b517f)
+Wireframes of the mobile app with parking reservation and administration service.     
+
+<img src="images/fengmian.png?raw=true"/>
+  
 ---
 
 ## Spatial Analytics 
