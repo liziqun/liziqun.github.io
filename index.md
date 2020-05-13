@@ -6,13 +6,13 @@
 ### [Prioritizing Fire Hydrant Inspections](R markdown/final_markdown.html)
 Help improve the inspection efficiency of hydrant in Philadelphia.
 
-### [Hydrant Inspector](https://liziqun.github.io/Hydrant_Inspector/)
+### [Hydrant Management Platform](https://liziqun.github.io/Hydrant_Inspector/)
 Web App development for hydrant management in philadelphia.     
 
 <img src="images/app_hydrant.png?raw=true"/>
 
-### [Urban Facility Panagement Platform](https://liziqun.github.io/Js_Final/map.html)
-Spatial Distribution of Urban Facility in Shanghai.
+### [Urban Facility Evaluation Platform](https://liziqun.github.io/Js_Final/map.html)
+Spatial distribution visualization of urban facility in Shanghai.
 
 <img src="images/app.png?raw=true"/>
 
