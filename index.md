@@ -31,15 +31,15 @@ Exploratory analysis of New York Airbnb.
        
 ---
 ## Web Design 
-### [Web App: Hydrant Inspector](https://liziqun.github.io/Hydrant_Inspector/)
-Web App development for hydrant management in philadelphia.     
-
-<img src="images/app_hydrant.png?raw=true"/>
-
 ### [Pricing Tool for Airbnb Host in New York](https://liziqun.github.io/Js_Midterm/)
 A data visualization platform for New York Airbnb host.    
 
 <img src="images/demo2.png?raw=true"/>
+
+### [Web App: Hydrant Inspector](https://liziqun.github.io/Hydrant_Inspector/)
+Web App development for hydrant management in philadelphia.     
+
+<img src="images/app_hydrant.png?raw=true"/>
 
 ### [Web App: Spatial Distribution of Urban Facility in Shanghai](https://liziqun.github.io/Js_Final/map.html)
 evaluate the urban space value for both the urban planner and property developer, and provide a basis for facility site selection.
