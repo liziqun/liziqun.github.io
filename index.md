@@ -34,7 +34,7 @@ A data visualization platform for New York Airbnb host.
 
 ---
 
-## Python-based Data Analysis & Visualization 
+## Data Analysis & Visualization by Python 
      
 ### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
 Exploratory analysis of New York Airbnb.    
@@ -48,7 +48,10 @@ Urban transport investivation on shared vehicles.
 
 ---
 
-## R-based Machine Learning Project   
+## Machine Learning Project by R   
+
+### [Prioritizing Fire Hydrant Inspections](R markdown/final_markdown.html)
+Help improve the inspection efficiency of hydrant in Philadelphia.
 
 ### [Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
 A space-time ridershare prediction model was built to help indego(Philly's official bike share provider) understand demand for bike share.
@@ -58,9 +61,6 @@ A geospatial risk model was built using the robbery crime data in order to bette
 
 ### [Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
 Predict home sale price for Zillow(the leading real estate marketplace in the U.S) in San Francisco.
-
-### [Prioritizing Fire Hydrant Inspections](R markdown/final_markdown.html)
-Help improve the inspection efficiency of hydrant in Philadelphia.
 
 ---  
 
