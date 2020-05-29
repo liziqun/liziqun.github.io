@@ -15,7 +15,7 @@ Wireframes of the mobile app with parking reservation and administration service
   
 ---
 
-## Web Development  
+## Web App Development  
 
 ### [Hydrant Management Platform](https://liziqun.github.io/Hydrant_Inspector/)
 Web App development for hydrant management in philadelphia.     
