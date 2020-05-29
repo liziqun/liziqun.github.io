@@ -14,12 +14,8 @@ Wireframes of the mobile app with parking reservation and administration service
 <img src="images/fengmian.png?raw=true"/>
   
 ---
+
 ## Web Development  
-
-### [Pricing Tool for Airbnb Host in New York](https://liziqun.github.io/Js_Midterm/)
-A data visualization platform for New York Airbnb host.    
-
-<img src="images/demo2.png?raw=true"/>  
 
 ### [Hydrant Management Platform](https://liziqun.github.io/Hydrant_Inspector/)
 Web App development for hydrant management in philadelphia.     
@@ -30,6 +26,11 @@ Web App development for hydrant management in philadelphia.
 Spatial distribution visualization of urban facility in Shanghai.
 
 <img src="images/app.png?raw=true"/>
+
+### [Pricing Tool for Airbnb Host in New York](https://liziqun.github.io/Js_Midterm/)
+A data visualization platform for New York Airbnb host.    
+
+<img src="images/demo2.png?raw=true"/>  
 
 ---
 
