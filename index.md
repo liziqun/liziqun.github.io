@@ -22,15 +22,15 @@ Web App development for hydrant management in philadelphia.
 
 <img src="images/app_hydrant.png?raw=true"/>
 
-### [Urban Facility Evaluation Platform](https://liziqun.github.io/Js_Final/map.html)
-Spatial distribution visualization of urban facility in Shanghai.
-
-<img src="images/app.png?raw=true"/>
-
 ### [Pricing Tool for Airbnb Host in New York](https://liziqun.github.io/Js_Midterm/)
 A data visualization platform for New York Airbnb host.    
 
 <img src="images/demo2.png?raw=true"/>  
+
+### [Urban Facility Evaluation Platform](https://liziqun.github.io/Js_Final/map.html)
+Spatial distribution visualization of urban facility in Shanghai.
+
+<img src="images/app.png?raw=true"/>
 
 ---
 
