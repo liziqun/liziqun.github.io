@@ -1,39 +1,6 @@
 # Portfolio
 
 ---
-## Data Analysis & Visualization 
-     
-### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
-Exploratory analysis of New York Airbnb.    
-
-<img src="images/combine.png?raw=true"/>
-
-### [Pricing Tool for Airbnb Host in New York](https://liziqun.github.io/Js_Midterm/)
-A data visualization platform for New York Airbnb host.    
-
-<img src="images/demo2.png?raw=true"/>     
-
-### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
-Urban transport investivation on shared vehicles.      
-
-<img src="images/carsharing.jpg?raw=true"/>
----
-## Web Development  
-
-### [Urban Facility Evaluation Platform](https://liziqun.github.io/Js_Final/map.html)
-Spatial distribution visualization of urban facility in Shanghai.
-
-<img src="images/app.png?raw=true"/>
-
-### [Prioritizing Fire Hydrant Inspections](R markdown/final_markdown.html)
-Help improve the inspection efficiency of hydrant in Philadelphia.
-
-### [Hydrant Management Platform](https://liziqun.github.io/Hydrant_Inspector/)
-Web App development for hydrant management in philadelphia.     
-
-<img src="images/app_hydrant.png?raw=true"/>
-
----
 ## Mobile App Design
 
 ### [Model Building: Parking Demand Prediction in Seattle](R markdown/Fan Shi & Ziqun Li_Parkingdemand.html)
@@ -47,8 +14,40 @@ Wireframes of the mobile app with parking reservation and administration service
 <img src="images/fengmian.png?raw=true"/>
   
 ---
+## Web Development  
 
-## Machine Learning Project   
+### [Pricing Tool for Airbnb Host in New York](https://liziqun.github.io/Js_Midterm/)
+A data visualization platform for New York Airbnb host.    
+
+<img src="images/demo2.png?raw=true"/>  
+
+### [Hydrant Management Platform](https://liziqun.github.io/Hydrant_Inspector/)
+Web App development for hydrant management in philadelphia.     
+
+<img src="images/app_hydrant.png?raw=true"/>
+
+### [Urban Facility Evaluation Platform](https://liziqun.github.io/Js_Final/map.html)
+Spatial distribution visualization of urban facility in Shanghai.
+
+<img src="images/app.png?raw=true"/>
+
+---
+
+## Python-Based Data Analysis & Visualization 
+     
+### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
+Exploratory analysis of New York Airbnb.    
+
+<img src="images/combine.png?raw=true"/>
+
+### [Investigation on Shared Vehicles](/pdf/carsharing.pdf)
+Urban transport investivation on shared vehicles.      
+
+<img src="images/carsharing.jpg?raw=true"/>
+
+---
+
+## R-based Machine Learning Project   
 
 ### [Space-Time Prediction of Bike Share Demand](R markdown/Ziqun Li,Bike Share Demand prediction.html)
 A space-time ridershare prediction model was built to help indego(Philly's official bike share provider) understand demand for bike share.
@@ -58,6 +57,9 @@ A geospatial risk model was built using the robbery crime data in order to bette
 
 ### [Home Sale Price Model Proposal](R markdown/Ziqun Li, Fan Shi.html)
 Predict home sale price for Zillow(the leading real estate marketplace in the U.S) in San Francisco.
+
+### [Prioritizing Fire Hydrant Inspections](R markdown/final_markdown.html)
+Help improve the inspection efficiency of hydrant in Philadelphia.
 
 ---  
 
