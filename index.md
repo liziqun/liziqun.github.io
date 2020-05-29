@@ -34,7 +34,7 @@ A data visualization platform for New York Airbnb host.
 
 ---
 
-## Python-Based Data Analysis & Visualization 
+## Python-based Data Analysis & Visualization 
      
 ### [Hospitality in Era of Airbnb](https://liziqun.github.io/MUSA620_Final_Project/)
 Exploratory analysis of New York Airbnb.    
